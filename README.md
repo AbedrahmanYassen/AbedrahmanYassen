@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Yaseen</h1>
-<h3 align="center">A computer Engineering student from Palestine</h3>
+<h3 align="center">Computer Engineering graduate and an AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedrahmanyassen&label=Profile%20views&color=0e75b6&style=flat" alt="abedrahmanyassen" /> </p>
 

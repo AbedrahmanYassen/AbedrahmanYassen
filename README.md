@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Software Engineer transitioning deeply into AI Engineering.
+I’m a Software Engineer transitioning into AI Engineering.
 
 I have a background in **Flutter (mobile)** and **Node.js/Express (backend)**, and I focus on building **AI-powered applications using LLMs**.
 

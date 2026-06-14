@@ -41,36 +41,41 @@ Flutter | React (basic)
 ---
 
 ## 🌟 Featured Projects
+### [Haven – AI-Powered Clinic Scheduling Assistant (In Progress)](https://github.com/AbedrahmanYassen/clinic_scheduling_agent)
+- Building an AI-driven clinic scheduling system using FastAPI, LangGraph, MongoDB, and
+LLMs to automate appointment booking, rescheduling, and cancellation through
+conversational workflows.
 
-### 🛒 AI-Powered Computer Shop Chatbot
+
+### [🛒 AI-Powered Computer Shop Chatbot](https://github.com/AbedrahmanYassen/computer-shop-chatbot)
 - Built an LLM chatbot with **short-term & long-term memory (RAG)**
 - Used **LangChain + Express.js + OpenRouter**
 - Simulates a real e-commerce assistant experience  
 
 ---
 
-### ⌨️ TypeMaster
+### [⌨️ TypeMaster](https://github.com/AbedrahmanYassen/Touch-typing-game)
 - React-based touch typing game (EN/AR support)  
 - Integrated **local AI (Ollama)** for generating dynamic content  
 - Focus on performance and bilingual usability  
 
 ---
 
-### 📚 ReadItNow
+### [📚 ReadItNow](https://github.com/AbedrahmanYassen/ReadItNow)
 - Flutter app acting as an **AI reading coach**  
 - Generates personalized content with translations & transliterations  
 - Designed for engagement and learning  
 
 ---
 
-### 🕵️ Selenium Automation Suite
+### [🕵️ Selenium Automation Suite](https://github.com/AbedrahmanYassen/sb_webscrapping) 
 - Built advanced web scrapers using **SeleniumBase**  
 - Implemented **anti-detection techniques (UC mode, CDP)**  
 - Targets platforms like Google Maps  
 
 ---
 
-### 🎯 Insaf AI Agent
+### [🎯 Insaf AI Agent](https://github.com/AbedrahmanYassen/Insaaf-ai-agent)
 - Automated student screening system  
 - Built with **LangGraph + Ollama**  
 - Reduced selection time from **days → minutes**  
